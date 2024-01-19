@@ -1,0 +1,33 @@
+.loginTotalContainer {
+    display: flex;
+    align-items: center;
+    height: 100%;
+    background-color: #D3D3D3;
+    flex-direction: column;
+}
+
+.loginFormWhiteBoxContainer {
+    width: 85%;
+    height: 60%;
+    border-radius: 10px;
+    background-color: #FFF;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 20px 0px 20px;
+}
+
+.loginFormWhiteBoxContainer h3 {
+    color: #252e69;
+    margin: 0
+}
+.loginFormWhiteBoxContainer h5 {
+    color: #252e69;
+    margin: 0;
+    font-weight: 400;
+}
+
+.loginSeparator {
+    border-bottom: 1px solid #000;
+    width: 100%;
+}
